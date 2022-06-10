@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Equilibrium](https://your-solution-url.com)
+- Solution URL: [Equilibrium](https://nft-review-thihnezzy.netlify.app/)
 
 ### Built with
 
