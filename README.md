@@ -44,7 +44,7 @@ Users should be able to:
 - Overlay 2 => 3 background by using z-index in Pure CSS
 - Card design
 - How to structure a card
-- How to deploy a website with [@Firebase](https://firebase.google.com)Firebase
+- How to deploy a website with [@Netlify](https://netlify.com)Firebase
 
 ## Author
 
