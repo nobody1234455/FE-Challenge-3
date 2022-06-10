@@ -116,7 +116,7 @@ h1.flex-item:hover {
     display: flex;
     flex-direction: row;
     width: 100%;
-    margin: 7% auto 5% 7%;
+    margin: 7% auto 0 7%;
 }
 
 .price>span {
@@ -144,13 +144,14 @@ h1.flex-item:hover {
     width: 87%;
     height: 0.3px;
     border: 0.3px solid var(--line);
-    margin-bottom: 10%;
-    margin-top: 7%;
+    margin-bottom: 5%;
+    margin-top: 5%;
 }
 
 .card-footer {
     display: flex;
     width: 100%;
+    font-size: 16px;
 }
 
 .card-footer img {
